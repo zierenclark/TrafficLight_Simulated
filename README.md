@@ -7,10 +7,7 @@ I was tasked with creating a traffic light Finite State Machine (FSM). Beginning
 
 Proceeded to build the traffic light circuit in Logisim. I implemented the logic gates and connections based on the boolean expressions. Following the construction, I thoroughly tested the circuit by simulating different input scenarios to verify that the traffic lights transitioned correctly between states, ensuring the system's reliability and accuracy.
 
-![image](https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/da23d59e-cc36-467d-96bd-c1322b4d98d9)
-![image](https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/b4dac971-680f-4b6e-9105-d2a34570918f)
-![image](https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/cc88e9d8-b97d-42bf-b572-96b24168898c)
-![image](https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/cd17a9dc-b89b-419e-b5c8-a585a1488442)
+<img width="500" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/da23d59e-cc36-467d-96bd-c1322b4d98d9"> <img width="500" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/b4dac971-680f-4b6e-9105-d2a34570918f"> <img width="500" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/cc88e9d8-b97d-42bf-b572-96b24168898c"> <img width="500" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/cd17a9dc-b89b-419e-b5c8-a585a1488442">
 
 
 
