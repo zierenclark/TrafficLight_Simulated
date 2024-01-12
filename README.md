@@ -13,6 +13,9 @@ Using Verilog's hardware description language, I defined the logic gates, state 
 
 [Insert Waveform photo here] 
 
+ I connected the components on the trainer board, placing resistors, transistors, and other necessary elements to represent the logic gates and transitions. Following the circuit diagram, I configured the trainer suitcase to simulate the behavior of the traffic light system. After the physical assembly, I tested the circuit in real-life conditions, ensuring that the traffic lights responded accurately to various input scenarios and transitions.
+
+<img width="600" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/e2d7a60e-9a0c-439d-9270-f8d84871bd8d">
 
 
 
