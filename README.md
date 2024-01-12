@@ -9,8 +9,9 @@ Proceeded to build the traffic light circuit in Logisim. I implemented the logic
 
 <img width="500" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/da23d59e-cc36-467d-96bd-c1322b4d98d9"> <img width="500" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/b4dac971-680f-4b6e-9105-d2a34570918f"> <img width="500" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/6b93efb9-5e95-43cc-9a5f-14a37b75962f"> <img width="500" alt="Screenshot 2024-01-03 120653" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/cd17a9dc-b89b-419e-b5c8-a585a1488442">
 
+Using Verilog's hardware description language, I defined the logic gates, state transitions, and input conditions. I then simulated and tested the Verilog code, assessing the circuit's functionality under various scenarios to ensure accurate and reliable behavior in different states.
 
-
+[Insert Waveform photo here] 
 
 
 
