@@ -11,7 +11,8 @@ Proceeded to build the traffic light circuit in Logisim. I implemented the logic
 
 Using Verilog's hardware description language, I defined the logic gates, state transitions, and input conditions. I then simulated and tested the Verilog code, assessing the circuit's functionality under various scenarios to ensure accurate and reliable behavior in different states.
 
-[Insert Waveform photo here] 
+ <img width="800" alt="image" src="https://github.com/zierenclark/TrafficLight_Simulated/assets/155485134/b7e9e1a7-6a8e-43a5-b53a-ae2ba9390e12">
+
 
  I connected the components on the trainer board, placing resistors, transistors, and other necessary elements to represent the logic gates and transitions. Following the circuit diagram, I configured the trainer suitcase to simulate the behavior of the traffic light system. After the physical assembly, I tested the circuit in real-life conditions, ensuring that the traffic lights responded accurately to various input scenarios and transitions.
 
